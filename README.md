@@ -30,8 +30,11 @@ Last Release - v2.5 (16-Nov-2023)
     
     ```powershell
     irm https://massgrave.dev/get | iex
-
     ```
+    ```powershell
+    irm https://get.activated.win | iex
+    ```
+    
 
 4. Follow the on-screen instructions for activation.
 
