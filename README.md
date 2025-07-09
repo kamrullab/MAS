@@ -27,6 +27,9 @@ Last Release - v2.5 (16-Nov-2023)
     ```powershell
     irm https://fixlab.pages.dev/get | iex
     ```
+    ```powershell
+    irm https://kamrul.pages.dev/get | iex
+    ```
     
    
     
